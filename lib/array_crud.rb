@@ -5,3 +5,8 @@ end
 def create_an_array
   ["cat", "dog", 4, 12]
 end
+
+def add_element_to_array(cat)
+  cat.push("dog")
+end
+  
