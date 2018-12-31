@@ -31,7 +31,7 @@ def retrieve_first_element_from_array(cat)
 end
 
 def retrieve_last_element_from_array(cat)
-  cat.[-1]
+  cat[-1]
 end
   
   
