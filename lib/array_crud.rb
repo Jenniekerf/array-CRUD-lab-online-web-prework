@@ -14,3 +14,6 @@ def add_element_to_start_of_array(cat, dog)
 cat.unshift(dog)
 end
   
+def remove_element_from_end_of_array(cat)
+  cat.pop
+end
