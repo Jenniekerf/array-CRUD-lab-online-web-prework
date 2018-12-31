@@ -29,5 +29,9 @@ end
 def retrieve_first_element_from_array(cat)
   cat[0]
 end
+
+def retrieve_last_element_from_array(cat)
+  cat.[-1]
+end
   
   
