@@ -9,4 +9,8 @@ end
 def add_element_to_end_of_array(cat, dog)
   cat << dog
 end
+
+add_element_to_start_of_array(cat, dog)
+cat.unshift(dog)
+end
   
