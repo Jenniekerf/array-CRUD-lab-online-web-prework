@@ -25,5 +25,9 @@ end
 def retrieve_element_from_index(cat, index_num)
   cat[index_num]
 end
+
+def retrieve_first_element_from_array(cat)
+  cat[0]
+end
   
   
