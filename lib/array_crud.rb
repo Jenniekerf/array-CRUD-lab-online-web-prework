@@ -7,6 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(cat)
-  cat.push("dog")
+  cat << "dog"
 end
   
