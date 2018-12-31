@@ -21,3 +21,6 @@ end
 def remove_element_from_start_of_array(cat)
   cat.shift 
 end
+
+def remove_element_from_index(cat)
+  
